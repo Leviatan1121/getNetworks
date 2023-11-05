@@ -1,0 +1,25 @@
+{
+  "name": "@levihub/getnetworks",
+  "version": "1.0.1",
+  "description": "Easy tool for getting networks (based on 'os' package).",
+  "type": "module",
+  "exports": {
+    ".": {
+      "require": "./dist/getNetworks.cjs",
+      "import": "./dist/getNetworks.mjs"
+    }
+  },
+  "author": "Leviatan1121 (https://levihub.dev)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leviatan1121/getNetworks.git"
+  },
+  "keywords": [
+    "network"
+  ],
+  "bugs": {
+    "url": "https://github.com/Leviatan1121/getNetworks/issues"
+  },
+  "homepage": "https://github.com/Leviatan1121/getNetworks#readme"
+}
