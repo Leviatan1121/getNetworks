@@ -1,6 +1,6 @@
 {
   "name": "@levihub/getnetworks",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Easy tool for getting networks (based on 'os' package).",
   "type": "module",
   "exports": {
